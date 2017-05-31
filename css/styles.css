@@ -11,8 +11,8 @@
 
 #letter-text {
   margin-top: 60px;
-  border-style: solid;
-  border-right: 10px;
+  
+  border-right: 10px solid black;
 }
 
 #address-text {
