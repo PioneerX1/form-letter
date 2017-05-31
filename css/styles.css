@@ -1,0 +1,30 @@
+#stamp {
+  border-style: groove;
+  border-width: medium;
+  float:right;
+}
+
+#greetings {
+  text-align: right;
+  margin-top: 100px;
+}
+
+#letter-text {
+  margin-top: 60px;
+  border-style: solid;
+  border-right: 10px;
+}
+
+#address-text {
+  margin-top: 60px;
+}
+
+
+
+/*
+.postcard {
+  background: url("../img/postcard-body.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+*/
