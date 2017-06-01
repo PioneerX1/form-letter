@@ -1,6 +1,7 @@
 $(document).ready(function() {
   $("#formOne").submit(function() {
     var myNameInput = $("input#my-name").val();
+    var myNameInput = myNameInput.toUpperCase();
     var firstNameInput = $("input#first-name").val();
     var lastNameInput = $("input#last-name").val();
     var streetInput = $("input#street-address").val();
