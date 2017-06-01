@@ -1,24 +1,31 @@
 #stamp {
-  border-style: groove;
+  border-style: ridge;;
   border-width: medium;
   float:right;
 }
 
 #greetings {
-  text-align: right;
-  margin-top: 100px;
+  text-align: center;
+  margin-top: 150px;
+
 }
 
 #letter-text {
   margin-top: 60px;
-  
-  border-right: 10px solid black;
+  margin-bottom: 200px;
+  /*border-right: 5px dashed black; */
 }
 
 #address-text {
   margin-top: 60px;
 }
 
+#postcard {
+  border-style: dashed;
+  background: url("../img/postcard-image.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
 
 
 /*
